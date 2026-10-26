@@ -5,6 +5,8 @@ on:
   push:
     paths:
       - '.github/workflows/build-apk.yml'
+      - 'launcher/app/src/main/res/drawable/banner_*_custom.png'
+      - 'themes/retro/config.json'
 
 permissions:
   contents: read
