@@ -41,5 +41,11 @@
     "org.smarttube.beta=YouTube",
     "com.netflix.ninja=Netflix",
     "com.spotify.tv.android=Spotify"
+  ],
+  "app_banners": [
+    "net.oqee.androidtv=banner_tv_custom",
+    "org.smarttube.beta=banner_youtube_custom",
+    "com.netflix.ninja=banner_netflix_custom",
+    "com.spotify.tv.android=banner_spotify_custom"
   ]
 }
