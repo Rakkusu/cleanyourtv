@@ -5,8 +5,8 @@
   "glass_style": "rim",
   "dock_title": false,
   "dock_opacity": 100,
-  "fill_dock": true,
-  "columns": 5,
+  "fill_dock": false,
+  "columns": 4,
   "ambient_glow": false,
   "app_glow": false,
   "icon_only_buttons": true,
@@ -29,5 +29,17 @@
   "wallpaper_dim": 10,
   "wallpaper_order": "sequential",
   "reduced_motion": true,
-  "sky_intensity": 0
+  "sky_intensity": 0,
+  "dock_apps": [
+    "net.oqee.androidtv",
+    "org.smarttube.beta",
+    "com.netflix.ninja",
+    "com.spotify.tv.android"
+  ],
+  "app_labels": [
+    "net.oqee.androidtv=TV",
+    "org.smarttube.beta=YouTube",
+    "com.netflix.ninja=Netflix",
+    "com.spotify.tv.android=Spotify"
+  ]
 }
